@@ -1,0 +1,18 @@
+# Ignorando archivos de trabajo
+.vscode
+**/.DS_Store
+.cproject
+.project
+.settings/
+.dep/
+
+# Archivos en edicion
+*~
+
+# make y build
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
